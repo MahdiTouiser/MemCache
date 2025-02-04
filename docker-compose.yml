@@ -1,0 +1,65 @@
+version: '3.4'
+
+networks:
+  mem-cache-network:
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    hostname: rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - mem-cache-network
+    
+  ms-sql-server:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_USER=sa
+      - MSSQL_SA_PASSWORD=Multil@yer123!
+    ports:
+      - "1433:1433"
+    networks:
+      - mem-cache-network
+
+  MemCache.API:
+    image: mem-cache-service
+    build:
+      context: ./MemCache
+      dockerfile: ./MemCache.API/Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - rabbitmq
+      - ms-sql-server
+    environment:
+      - Port=5000
+      - ProductApiUrl=http://MemCache.productservice.api:4000
+      - RabbitMqConfiguration=rabbitmq
+      - CacheConfiguration__InMemoryCacheExpirationTime=300
+      - CacheConfiguration__MissDataExpirationTime=60  
+      - DbConnectionString=Data Source=ms-sql-server;Initial Catalog = SellerDB;Persist Security Info=True;Integrated Security=False;User ID =sa; Password=Multil@yer123!;Connect Timeout=15000;MultipleActiveResultSets=true;TrustServerCertificate=True;
+    networks:
+      - mem-cache-network
+  
+  MemCache.productservice.api:
+    image: memed-cache-product-service
+    build:
+      context: ./MemCache.ProductService
+      dockerfile: ./MemCache.ProductService.API/Dockerfile
+    ports:
+      - "4000:4000"
+    depends_on:
+      - rabbitmq
+      - ms-sql-server
+    environment:
+      - Port=4000
+      - RabbitMqConfiguration=rabbitmq
+      - DbConnectionString=Data Source=ms-sql-server;Initial Catalog = ProductServiceDB;Persist Security Info=True;Integrated Security=False;User ID =sa; Password=Multil@yer123!;Connect Timeout=15000;MultipleActiveResultSets=true;TrustServerCertificate=True;
+    networks:
+      - mem-cache-network

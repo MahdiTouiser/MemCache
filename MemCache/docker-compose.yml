@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  MemCache.api:
+    image: ${DOCKER_REGISTRY-}MemCacheapi
+    build:
+      context: .
+      dockerfile: MemCache.API/Dockerfile

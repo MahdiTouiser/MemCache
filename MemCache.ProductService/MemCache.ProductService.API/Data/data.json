@@ -1,0 +1,2218 @@
+[
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "The iPhone 15 Pro Max offers unparalleled performance with its A17 Pro chip, a titanium design, and a cutting-edge 48MP main camera. Enjoy a 6.7-inch Super Retina XDR display and advanced video editing capabilities, making it perfect for creators on the go. With up to 2TB of storage, this device is your ultimate companion for work and play.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 450,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "The Galaxy Tab S9 Ultra redefines productivity with its 14.6-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 processor, and multi-window multitasking features. Paired with an S Pen and a 16,000mAh battery, it’s designed for both professional work and entertainment. 5G-enabled and featuring quad speakers, it offers immersive experiences anytime, anywhere.",
+    "price": 1249,
+    "discount": 150,
+    "quantity": 210,
+    "category": "Tablet"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Experience next-level sound quality and noise cancellation with the Sony WH-1000XM5. Featuring advanced noise-canceling technology, crystal-clear audio, and all-day battery life, these headphones are ideal for travel, work, and music enthusiasts. Enjoy seamless integration with voice assistants and a foldable design for easy portability.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 750,
+    "category": "Audio"
+  },
+  {
+    "name": "Dell XPS 15 9520",
+    "description": "The Dell XPS 15 combines sleek design with powerful performance, featuring a 12th Gen Intel Core i9 processor, NVIDIA GeForce RTX 3070 GPU, and a 15.6-inch 4K OLED display. Perfect for creators and professionals, it offers up to 64GB of RAM and 2TB of SSD storage, ensuring smooth multitasking and blazing-fast speeds.",
+    "price": 2299,
+    "discount": 200,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Designed for ultimate productivity, the MX Master 3S features an ergonomic design, MagSpeed Electromagnetic Scrolling, and customizable buttons. Compatible with Windows, macOS, and Linux, it’s perfect for professionals and creatives. The advanced 8000 DPI sensor ensures precision on any surface, including glass.",
+    "price": 99,
+    "discount": 10,
+    "quantity": 1200,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "description": "The PlayStation 5 delivers breathtaking gaming experiences with its lightning-fast SSD, ray tracing capabilities, and 4K gaming support. Enjoy a vast library of exclusive titles and immersive audio with the DualSense controller, which features haptic feedback and adaptive triggers for a revolutionary gaming experience.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Samsung Neo QLED 8K TV",
+    "description": "The Samsung Neo QLED 8K TV offers stunning visuals with its Quantum Mini LED technology and 8K resolution. Featuring AI-powered upscaling and HDR 10+ support, it provides an unparalleled viewing experience. Smart features like Samsung Smart Hub and compatibility with voice assistants make it a centerpiece for any home.",
+    "price": 4999,
+    "discount": 700,
+    "quantity": 95,
+    "category": "Television"
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum Cleaner",
+    "description": "The Dyson V15 Detect is the most powerful and intelligent vacuum, equipped with laser dust detection and real-time particle counts. It adjusts suction power automatically for a deep clean and features a 60-minute runtime with advanced filtration for a healthier home.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 320,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4090 Graphics Card",
+    "description": "Push the limits of gaming and creative work with the NVIDIA GeForce RTX 4090. Powered by the Ada Lovelace architecture, it features 24GB of GDDR6X memory and next-gen ray tracing. Perfect for gamers and developers, it delivers incredible performance for the latest AAA titles and demanding applications.",
+    "price": 1599,
+    "discount": 300,
+    "quantity": 130,
+    "category": "PC Components"
+  },
+  {
+    "name": "Apple MacBook Pro 16-inch M2 Max",
+    "description": "The MacBook Pro 16-inch with M2 Max redefines power and portability. Featuring up to a 12-core CPU, 38-core GPU, and 96GB of unified memory, it’s ideal for creative professionals. Enjoy a stunning Liquid Retina XDR display, an all-day battery life, and the macOS ecosystem.",
+    "price": 3499,
+    "discount": 300,
+    "quantity": 250,
+    "category": "Laptop"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "The iPhone 15 Pro Max offers unparalleled performance with its A17 Pro chip, a titanium design, and a cutting-edge 48MP main camera. Enjoy a 6.7-inch Super Retina XDR display and advanced video editing capabilities, making it perfect for creators on the go. With up to 2TB of storage, this device is your ultimate companion for work and play.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 450,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "The Galaxy Tab S9 Ultra redefines productivity with its 14.6-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 processor, and multi-window multitasking features. Paired with an S Pen and a 16,000mAh battery, it’s designed for both professional work and entertainment. 5G-enabled and featuring quad speakers, it offers immersive experiences anytime, anywhere.",
+    "price": 1249,
+    "discount": 150,
+    "quantity": 210,
+    "category": "Tablet"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Experience next-level sound quality and noise cancellation with the Sony WH-1000XM5. Featuring advanced noise-canceling technology, crystal-clear audio, and all-day battery life, these headphones are ideal for travel, work, and music enthusiasts. Enjoy seamless integration with voice assistants and a foldable design for easy portability.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 750,
+    "category": "Audio"
+  },
+  {
+    "name": "Dell XPS 15 9520",
+    "description": "The Dell XPS 15 combines sleek design with powerful performance, featuring a 12th Gen Intel Core i9 processor, NVIDIA GeForce RTX 3070 GPU, and a 15.6-inch 4K OLED display. Perfect for creators and professionals, it offers up to 64GB of RAM and 2TB of SSD storage, ensuring smooth multitasking and blazing-fast speeds.",
+    "price": 2299,
+    "discount": 200,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Designed for ultimate productivity, the MX Master 3S features an ergonomic design, MagSpeed Electromagnetic Scrolling, and customizable buttons. Compatible with Windows, macOS, and Linux, it’s perfect for professionals and creatives. The advanced 8000 DPI sensor ensures precision on any surface, including glass.",
+    "price": 99,
+    "discount": 10,
+    "quantity": 1200,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "description": "The PlayStation 5 delivers breathtaking gaming experiences with its lightning-fast SSD, ray tracing capabilities, and 4K gaming support. Enjoy a vast library of exclusive titles and immersive audio with the DualSense controller, which features haptic feedback and adaptive triggers for a revolutionary gaming experience.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Samsung Neo QLED 8K TV",
+    "description": "The Samsung Neo QLED 8K TV offers stunning visuals with its Quantum Mini LED technology and 8K resolution. Featuring AI-powered upscaling and HDR 10+ support, it provides an unparalleled viewing experience. Smart features like Samsung Smart Hub and compatibility with voice assistants make it a centerpiece for any home.",
+    "price": 4999,
+    "discount": 700,
+    "quantity": 95,
+    "category": "Television"
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum Cleaner",
+    "description": "The Dyson V15 Detect is the most powerful and intelligent vacuum, equipped with laser dust detection and real-time particle counts. It adjusts suction power automatically for a deep clean and features a 60-minute runtime with advanced filtration for a healthier home.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 320,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4090 Graphics Card",
+    "description": "Push the limits of gaming and creative work with the NVIDIA GeForce RTX 4090. Powered by the Ada Lovelace architecture, it features 24GB of GDDR6X memory and next-gen ray tracing. Perfect for gamers and developers, it delivers incredible performance for the latest AAA titles and demanding applications.",
+    "price": 1599,
+    "discount": 300,
+    "quantity": 130,
+    "category": "PC Components"
+  },
+  {
+    "name": "Apple MacBook Pro 16-inch M2 Max",
+    "description": "The MacBook Pro 16-inch with M2 Max redefines power and portability. Featuring up to a 12-core CPU, 38-core GPU, and 96GB of unified memory, it’s ideal for creative professionals. Enjoy a stunning Liquid Retina XDR display, an all-day battery life, and the macOS ecosystem.",
+    "price": 3499,
+    "discount": 300,
+    "quantity": 250,
+    "category": "Laptop"
+  },
+  {
+    "name": "LG Gram 17 Ultra-Light Laptop",
+    "description": "The LG Gram 17 offers a massive 17-inch WQXGA display in an ultra-lightweight design, powered by the 13th Gen Intel Core i7 processor and up to 16GB of RAM. It’s perfect for multitasking, offering a full day of battery life and military-grade durability.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 240,
+    "category": "Laptop"
+  },
+  {
+    "name": "Razer Blade 18 Gaming Laptop",
+    "description": "The Razer Blade 18 delivers desktop-class gaming power with an Intel Core i9 processor, NVIDIA RTX 4090 GPU, and a stunning 18-inch QHD+ 240Hz display. Perfect for gamers and creators, it features advanced cooling and THX spatial audio for immersive experiences.",
+    "price": 4299,
+    "discount": 400,
+    "quantity": 120,
+    "category": "Laptop"
+  },
+  {
+    "name": "Amazon Kindle Paperwhite (11th Gen)",
+    "description": "The Kindle Paperwhite is the perfect e-reader with a 6.8-inch glare-free display, adjustable warm light, and up to 10 weeks of battery life. Its lightweight design and waterproof build make it great for reading anywhere, anytime.",
+    "price": 159,
+    "discount": 30,
+    "quantity": 600,
+    "category": "E-Reader"
+  },
+  {
+    "name": "DJI Mini 3 Pro Drone",
+    "description": "The DJI Mini 3 Pro is a lightweight, foldable drone featuring a 4K HDR camera, advanced obstacle sensing, and up to 34 minutes of flight time. It’s perfect for aerial photography and videography enthusiasts.",
+    "price": 999,
+    "discount": 100,
+    "quantity": 150,
+    "category": "Drone"
+  },
+  {
+    "name": "Logitech StreamCam",
+    "description": "The Logitech StreamCam offers Full HD 1080p at 60fps, making it ideal for live streaming and video content creation. Its smart auto-framing and image stabilization ensure professional-quality videos, while USB-C connectivity provides seamless integration.",
+    "price": 169,
+    "discount": 20,
+    "quantity": 450,
+    "category": "Camera"
+  },
+  {
+    "name": "Theragun Pro Percussive Therapy Device",
+    "description": "The Theragun Pro offers deep muscle treatment with advanced QuietForce technology and customizable speed options. Perfect for athletes and fitness enthusiasts, it relieves soreness, enhances recovery, and improves performance.",
+    "price": 599,
+    "discount": 80,
+    "quantity": 200,
+    "category": "Health & Wellness"
+  },
+  {
+    "name": "HyperX Cloud II Wireless Gaming Headset",
+    "description": "The HyperX Cloud II Wireless delivers exceptional audio quality with virtual 7.1 surround sound and a 53mm driver. It’s perfect for immersive gaming, featuring a comfortable design and a 30-hour battery life for extended gaming sessions.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 400,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "description": "The Galaxy Watch 6 Classic combines timeless design with advanced health tracking features, including ECG monitoring, body composition analysis, and sleep tracking. With a rotating bezel and customizable watch faces, it’s the ultimate smartwatch for style and function.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 380,
+    "category": "Wearable"
+  },
+  {
+    "name": "Eufy RoboVac X8 Hybrid",
+    "description": "The Eufy RoboVac X8 Hybrid offers powerful cleaning with twin-turbine suction and a built-in mop. It features AI mapping technology for efficient navigation and works seamlessly with smart home systems like Alexa and Google Assistant.",
+    "price": 699,
+    "discount": 100,
+    "quantity": 220,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Corsair K95 RGB Platinum XT Mechanical Keyboard",
+    "description": "The Corsair K95 RGB Platinum XT features Cherry MX switches, dynamic RGB lighting, and six dedicated macro keys. Designed for gamers and professionals, it provides a premium typing and gaming experience with onboard memory for profile customization.",
+    "price": 199,
+    "discount": 25,
+    "quantity": 350,
+    "category": "PC Accessories"
+  },
+  {
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "The Sony WH-1000XM5 offers industry-leading noise cancellation, crystal-clear call quality, and up to 30 hours of battery life. Its lightweight design and premium sound make it perfect for music lovers and travelers alike.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Audio"
+  },
+  {
+    "name": "Apple MacBook Pro 16-inch (M3 Pro)",
+    "description": "The latest MacBook Pro 16-inch is powered by the M3 Pro chip, offering unparalleled performance for creative professionals. With a Liquid Retina XDR display, long battery life, and a sleek design, it’s built for ultimate productivity.",
+    "price": 3299,
+    "discount": 300,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Samsung Odyssey Neo G9 Monitor",
+    "description": "The Samsung Odyssey Neo G9 is a 49-inch curved gaming monitor with Quantum HDR 2000, a 240Hz refresh rate, and dual QHD resolution. Perfect for gamers and multitaskers, it provides an ultra-immersive viewing experience.",
+    "price": 2199,
+    "discount": 250,
+    "quantity": 90,
+    "category": "Monitor"
+  },
+  {
+    "name": "Peloton Bike+",
+    "description": "The Peloton Bike+ offers a revolutionary fitness experience with live and on-demand classes, a rotating 23.8-inch HD touchscreen, and immersive sound. It’s ideal for staying active and reaching your fitness goals at home.",
+    "price": 2495,
+    "discount": 200,
+    "quantity": 120,
+    "category": "Fitness Equipment"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "description": "The Google Pixel 8 Pro boasts a 6.7-inch OLED display, Tensor G3 processor, and exceptional camera capabilities with AI-powered features. It offers a pure Android experience with unmatched photo and video quality.",
+    "price": 1099,
+    "discount": 100,
+    "quantity": 350,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum Cleaner",
+    "description": "The Dyson V15 Detect is a high-performance cordless vacuum with advanced laser detection to reveal microscopic dust. Its powerful suction and smart sensor technology make cleaning more efficient and thorough.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 250,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Nintendo Switch OLED Model",
+    "description": "The Nintendo Switch OLED Model features a vibrant 7-inch display, improved audio, and 64GB of internal storage. Perfect for gaming on the go or at home, it offers a premium handheld experience.",
+    "price": 349,
+    "discount": 30,
+    "quantity": 600,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "GoPro HERO12 Black",
+    "description": "The GoPro HERO12 Black is the ultimate action camera with 5.3K video recording, improved stabilization, and waterproofing up to 33ft. Perfect for adventurers, it offers advanced features for capturing stunning footage anywhere.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Camera"
+  },
+  {
+    "name": "iRobot Roomba j7+",
+    "description": "The iRobot Roomba j7+ features advanced mapping technology, precision cleaning, and a self-emptying dustbin. It’s the smartest way to keep your floors spotless with minimal effort.",
+    "price": 899,
+    "discount": 150,
+    "quantity": 220,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Dell XPS 13 Plus (13th Gen)",
+    "description": "The Dell XPS 13 Plus offers a stunning InfinityEdge display, 13th Gen Intel Core processors, and a futuristic design with a seamless glass touchpad. It’s perfect for productivity and style on the go.",
+    "price": 1849,
+    "discount": 200,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds II",
+    "description": "The Bose QuietComfort Earbuds II deliver world-class noise cancellation, lifelike sound, and a secure, comfortable fit. Designed for music enthusiasts and frequent travelers, these earbuds offer up to 6 hours of listening time per charge.",
+    "price": 299,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Lenovo Legion Pro 7i",
+    "description": "The Lenovo Legion Pro 7i features a 16-inch WQXGA display with a 240Hz refresh rate, powered by an Intel Core i9 processor and NVIDIA GeForce RTX 4080. It's built for serious gamers and creators seeking unmatched performance.",
+    "price": 2799,
+    "discount": 250,
+    "quantity": 150,
+    "category": "Laptop"
+  },
+  {
+    "name": "Canon EOS R6 Mark II",
+    "description": "The Canon EOS R6 Mark II is a full-frame mirrorless camera with 24.2 MP resolution, 4K video recording, and advanced autofocus. Perfect for photographers and videographers, it offers exceptional performance in all lighting conditions.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 180,
+    "category": "Camera"
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "The Galaxy Tab S9 Ultra features a 14.6-inch AMOLED display, Snapdragon 8 Gen 2 processor, and S Pen support. With its slim design and powerful specs, it’s ideal for productivity, entertainment, and creativity.",
+    "price": 1199,
+    "discount": 100,
+    "quantity": 280,
+    "category": "Tablet"
+  },
+  {
+    "name": "Fitbit Charge 6",
+    "description": "The Fitbit Charge 6 offers advanced fitness tracking, heart rate monitoring, and GPS support. It features a bright AMOLED display, long battery life, and seamless integration with popular health apps.",
+    "price": 179,
+    "discount": 20,
+    "quantity": 400,
+    "category": "Wearable"
+  },
+  {
+    "name": "MSI MEG Trident X 12th Gen",
+    "description": "The MSI MEG Trident X is a compact gaming desktop featuring an Intel Core i7 processor, NVIDIA RTX 4070 GPU, and customizable RGB lighting. It's designed for gamers who need powerful performance in a small form factor.",
+    "price": 2199,
+    "discount": 200,
+    "quantity": 100,
+    "category": "Gaming Desktop"
+  },
+  {
+    "name": "Garmin Forerunner 965",
+    "description": "The Garmin Forerunner 965 is a premium GPS running smartwatch with advanced training metrics, maps, and music storage. Designed for athletes, it provides long battery life and excellent durability.",
+    "price": 599,
+    "discount": 50,
+    "quantity": 320,
+    "category": "Wearable"
+  },
+  {
+    "name": "Anker 737 Power Bank",
+    "description": "The Anker 737 Power Bank offers 24,000mAh capacity with fast charging capabilities, including USB-C Power Delivery. It’s perfect for keeping your devices charged on the go, supporting laptops, smartphones, and tablets.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 700,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sony BRAVIA XR A95K OLED TV",
+    "description": "The Sony BRAVIA XR A95K offers a 65-inch OLED display with Cognitive Processor XR, delivering stunning colors and deep contrast. Ideal for home theaters, it includes Google TV and Dolby Vision support.",
+    "price": 3499,
+    "discount": 400,
+    "quantity": 90,
+    "category": "Television"
+  },
+  {
+    "name": "Seagate FireCuda 530 SSD",
+    "description": "The Seagate FireCuda 530 is a high-performance PCIe Gen4 SSD with read speeds up to 7300MB/s. It’s perfect for gamers and professionals needing ultra-fast storage for large files and games.",
+    "price": 299,
+    "discount": 40,
+    "quantity": 500,
+    "category": "Storage"
+  },
+  {
+    "name": "HP Envy x360 Convertible Laptop",
+    "description": "The HP Envy x360 features a 15.6-inch Full HD touchscreen, AMD Ryzen 7 processor, and up to 12 hours of battery life. With a 360-degree hinge, it offers versatility for work, streaming, and creativity.",
+    "price": 1099,
+    "discount": 100,
+    "quantity": 240,
+    "category": "Laptop"
+  },
+  {
+    "name": "Razer BlackShark V2 Pro",
+    "description": "The Razer BlackShark V2 Pro is a wireless gaming headset with THX Spatial Audio, a detachable HyperClear supercardioid mic, and ultra-soft memory foam ear cushions. Designed for esports and competitive gaming.",
+    "price": 199,
+    "discount": 20,
+    "quantity": 350,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Logitech MX Keys Mini",
+    "description": "The Logitech MX Keys Mini is a compact, wireless keyboard with smart backlighting, responsive typing, and multi-device connectivity. Perfect for professionals looking for an ergonomic and efficient typing experience.",
+    "price": 99,
+    "discount": 10,
+    "quantity": 500,
+    "category": "Accessories"
+  },
+  {
+    "name": "Asus ROG Strix G17",
+    "description": "The Asus ROG Strix G17 is a powerful gaming laptop with a 17.3-inch FHD display, AMD Ryzen 9 7945HX, and NVIDIA RTX 4070. It offers immersive gaming experiences with its high refresh rate and advanced cooling.",
+    "price": 2199,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Laptop"
+  },
+  {
+    "name": "Philips Hue Smart Lightstrip Plus",
+    "description": "The Philips Hue Lightstrip Plus offers customizable lighting for any room. With app control and voice assistant integration, you can set the mood for gaming, relaxing, or parties with 16 million colors.",
+    "price": 79,
+    "discount": 15,
+    "quantity": 400,
+    "category": "Smart Home"
+  },
+  {
+    "name": "SteelSeries Apex Pro TKL",
+    "description": "The SteelSeries Apex Pro TKL is a compact mechanical keyboard with adjustable actuation, OLED Smart Display, and durable aluminum frame. It’s the ultimate tool for competitive gamers.",
+    "price": 179,
+    "discount": 30,
+    "quantity": 320,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "description": "The Samsung Galaxy Watch 6 Classic combines timeless design with advanced health tracking features, including ECG, body composition analysis, and sleep monitoring. Stay connected with LTE and Bluetooth options.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Wearable"
+  },
+  {
+    "name": "Roku Ultra Streaming Player",
+    "description": "The Roku Ultra is a 4K streaming player with Dolby Vision, HDR10+, and an advanced voice remote. Enjoy seamless access to all your favorite streaming services with ultra-fast performance.",
+    "price": 99,
+    "discount": 20,
+    "quantity": 600,
+    "category": "Streaming Devices"
+  },
+  {
+    "name": "LG C3 OLED Smart TV",
+    "description": "The LG C3 OLED features a 55-inch 4K display, AI-powered picture processing, and Dolby Atmos support. Perfect for home entertainment, it delivers stunning visuals and premium sound.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 120,
+    "category": "Television"
+  },
+  {
+    "name": "Anker Nebula Capsule II",
+    "description": "The Anker Nebula Capsule II is a portable smart projector with 720p resolution, built-in Android TV, and a 360-degree speaker. Perfect for movie nights, presentations, and on-the-go entertainment.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 200,
+    "category": "Projector"
+  },
+  {
+    "name": "Dell UltraSharp U3223QE",
+    "description": "A 32-inch 4K UHD monitor with an innovative IPS Black panel for stunning color accuracy and deeper blacks. Perfect for professionals in graphic design and video editing.",
+    "price": 1249,
+    "discount": 150,
+    "quantity": 200,
+    "category": "Monitor"
+  },
+  {
+    "name": "Beats Studio Buds+",
+    "description": "The Beats Studio Buds+ offer Active Noise Cancelling, a comfortable fit, and rich sound quality. Ideal for music lovers who prioritize style and performance.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 450,
+    "category": "Audio"
+  },
+  {
+    "name": "HP Omen 45L Gaming Desktop",
+    "description": "A high-performance gaming PC featuring an Intel Core i9-13900K, NVIDIA GeForce RTX 4090, and advanced cooling for intense gaming sessions.",
+    "price": 3699,
+    "discount": 400,
+    "quantity": 80,
+    "category": "Gaming Desktop"
+  },
+  {
+    "name": "Nespresso VertuoPlus Coffee Maker",
+    "description": "The Nespresso VertuoPlus brews barista-grade coffee and espresso with a single touch. Its sleek design and variety of coffee options make it a must-have for coffee enthusiasts.",
+    "price": 199,
+    "discount": 40,
+    "quantity": 500,
+    "category": "Kitchen Appliances"
+  },
+  {
+    "name": "Amazon Kindle Paperwhite (11th Gen)",
+    "description": "A 6.8-inch waterproof e-reader with a glare-free display, adjustable warm light, and weeks-long battery life. Perfect for reading at home or on the go.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 300,
+    "category": "E-Reader"
+  },
+  {
+    "name": "Sony Alpha A7 IV",
+    "description": "A full-frame mirrorless camera with 33MP resolution, 4K 60p video, and advanced autofocus. Ideal for professionals and enthusiasts capturing stunning photos and videos.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 120,
+    "category": "Camera"
+  },
+  {
+    "name": "ASUS ROG Swift 360Hz Monitor",
+    "description": "A 24.5-inch Full HD gaming monitor with a 360Hz refresh rate and NVIDIA G-Sync support. Designed for competitive gamers who demand ultra-smooth visuals.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 250,
+    "category": "Gaming Monitor"
+  },
+  {
+    "name": "Samsung Jet Bot AI+ Robot Vacuum",
+    "description": "A smart robot vacuum with LiDAR navigation, AI-powered object recognition, and a self-emptying dustbin. Keeps your home spotless with minimal effort.",
+    "price": 1099,
+    "discount": 150,
+    "quantity": 180,
+    "category": "Smart Home"
+  },
+  {
+    "name": "HyperX Cloud II Gaming Headset",
+    "description": "A durable and comfortable gaming headset with 7.1 virtual surround sound, memory foam ear cushions, and a detachable microphone for clear communication.",
+    "price": 99,
+    "discount": 15,
+    "quantity": 700,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Apple iPad Pro 12.9-inch (M3)",
+    "description": "A powerhouse tablet featuring the M3 chip, a Liquid Retina XDR display, and advanced cameras. Perfect for professionals and creatives on the go.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 250,
+    "category": "Tablet"
+  },
+  {
+    "name": "Fitbit Versa 5",
+    "description": "An advanced smartwatch with fitness tracking, built-in GPS, and sleep monitoring. Its long battery life and stylish design make it ideal for active lifestyles.",
+    "price": 229,
+    "discount": 30,
+    "quantity": 350,
+    "category": "Wearable"
+  },
+  {
+    "name": "LG Gram 17 Laptop",
+    "description": "An ultra-lightweight laptop with a 17-inch WQXGA display, Intel Core i7 processor, and long battery life. Designed for productivity and portability.",
+    "price": 1899,
+    "discount": 250,
+    "quantity": 160,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony PS5 DualSense Edge Controller",
+    "description": "A pro-level controller with customizable features, adaptive triggers, and haptic feedback. Elevate your gaming experience on the PS5.",
+    "price": 199,
+    "discount": 20,
+    "quantity": 400,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Corsair Vengeance DDR5 RAM (32GB)",
+    "description": "High-performance DDR5 memory with 5600MHz speed, designed for gaming PCs and high-demand applications. Offers stability and reliability for power users.",
+    "price": 299,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Computer Components"
+  },
+  {
+    "name": "Garmin Edge 1040 Solar",
+    "description": "A premium GPS bike computer with solar charging, advanced performance analytics, and maps. Designed for serious cyclists and adventurers.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 200,
+    "category": "Wearable"
+  },
+  {
+    "name": "Xiaomi Electric Scooter Pro 2",
+    "description": "A high-performance electric scooter with a 45km range, 25km/h max speed, and smart app connectivity. Perfect for urban commuting.",
+    "price": 599,
+    "discount": 70,
+    "quantity": 300,
+    "category": "Transportation"
+  },
+  {
+    "name": "Logitech G502 X Plus",
+    "description": "A wireless gaming mouse with customizable buttons, HERO 25K sensor, and LIGHTSYNC RGB lighting. Designed for precision and comfort.",
+    "price": 159,
+    "discount": 25,
+    "quantity": 550,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Eufy Security Video Doorbell 2K",
+    "description": "A smart doorbell with 2K resolution, AI-powered person detection, and local storage. Keeps your home secure with instant notifications and crisp video quality.",
+    "price": 199,
+    "discount": 40,
+    "quantity": 350,
+    "category": "Smart Home"
+  },
+  {
+    "name": "DJI Mini 3 Pro",
+    "description": "A compact drone with 4K HDR video, 34-minute flight time, and obstacle sensing. Ideal for beginners and professionals capturing aerial footage.",
+    "price": 999,
+    "discount": 150,
+    "quantity": 120,
+    "category": "Drone"
+  },
+  {
+    "name": "BenQ X3000i 4K HDR Gaming Projector",
+    "description": "A gaming projector with 4K UHD resolution, 3000 ANSI lumens, and a 120Hz refresh rate. Delivers immersive gaming and cinematic experiences.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 90,
+    "category": "Projector"
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "description": "Noise-cancelling wireless headphones with premium sound quality, up to 24 hours of battery life, and a comfortable fit. Ideal for work, travel, and relaxation.",
+    "price": 329,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Audio"
+  },
+  {
+    "name": "Microsoft Surface Laptop Studio",
+    "description": "A versatile 2-in-1 laptop with a 14.4-inch PixelSense display, Intel Core i7 processor, and NVIDIA GeForce RTX graphics. Built for creators and professionals.",
+    "price": 2199,
+    "discount": 250,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "TP-Link Deco X90 WiFi 6 Mesh System",
+    "description": "A powerful mesh system with WiFi 6 technology, offering seamless connectivity and coverage up to 6,000 sq. ft. Supports up to 200 devices.",
+    "price": 449,
+    "discount": 70,
+    "quantity": 400,
+    "category": "Networking"
+  },
+  {
+    "name": "Canon PIXMA G6020 MegaTank Printer",
+    "description": "A high-volume inkjet printer with refillable tanks, wireless connectivity, and exceptional print quality. Ideal for home offices and small businesses.",
+    "price": 249,
+    "discount": 30,
+    "quantity": 300,
+    "category": "Printers"
+  },
+  {
+    "name": "Alienware Aurora R15",
+    "description": "A gaming desktop powered by the latest Intel Core i9 processor, NVIDIA RTX 4090, and advanced cooling technology. Designed for elite gamers.",
+    "price": 3799,
+    "discount": 400,
+    "quantity": 100,
+    "category": "Gaming Desktop"
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "A 14.6-inch AMOLED tablet with the Snapdragon 8 Gen 2 chip, S Pen support, and a massive battery. Perfect for productivity and entertainment.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Tablet"
+  },
+  {
+    "name": "Hyperice Hypervolt 2 Pro",
+    "description": "A powerful massage gun with adjustable speeds, QuietGlide technology, and ergonomic design. Great for athletes and recovery.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 320,
+    "category": "Health & Wellness"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "description": "A lightweight business laptop with a 14-inch 2.8K display, Intel Core i7 processor, and robust security features. Built for productivity on the go.",
+    "price": 1899,
+    "discount": 200,
+    "quantity": 160,
+    "category": "Laptop"
+  },
+  {
+    "name": "JBL PartyBox 310",
+    "description": "A portable Bluetooth speaker with 240W of power, dynamic light effects, and a rechargeable battery for up to 18 hours of playback. Perfect for parties and events.",
+    "price": 549,
+    "discount": 70,
+    "quantity": 200,
+    "category": "Audio"
+  },
+  {
+    "name": "Ring Floodlight Cam Wired Pro",
+    "description": "A smart security camera with 3D motion detection, 1080p HDR video, and powerful LED floodlights. Keeps your home secure day and night.",
+    "price": 249,
+    "discount": 40,
+    "quantity": 300,
+    "category": "Smart Home"
+  },
+  {
+    "name": "GoPro HERO12 Black",
+    "description": "A rugged action camera with 5.3K video, HyperSmooth stabilization, and waterproofing up to 33ft. Perfect for capturing adventures.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Camera"
+  },
+  {
+    "name": "Razer Blade 15 Advanced Model",
+    "description": "A premium gaming laptop with a 15.6-inch QHD display, Intel Core i9 processor, and NVIDIA RTX 4080 graphics. Built for performance and style.",
+    "price": 3199,
+    "discount": 300,
+    "quantity": 120,
+    "category": "Laptop"
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum Cleaner",
+    "description": "A powerful cordless vacuum with laser dust detection, advanced filtration, and up to 60 minutes of runtime. Ideal for deep cleaning.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 200,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise-cancelling headphones with crystal-clear sound, adaptive sound control, and up to 30 hours of battery life.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Anker 737 Power Bank",
+    "description": "A high-capacity portable charger with 24,000mAh, 140W fast charging, and multiple ports. Perfect for charging laptops, phones, and tablets on the go.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 400,
+    "category": "Accessories"
+  },
+  {
+    "name": "Tile Pro 2025",
+    "description": "A Bluetooth tracker with a 400ft range, water resistance, and replaceable battery. Never lose your keys, wallet, or other essentials again.",
+    "price": 39,
+    "discount": 5,
+    "quantity": 600,
+    "category": "Smart Devices"
+  },
+  {
+    "name": "Echelon EX-5s Smart Bike",
+    "description": "An advanced indoor bike with a 22-inch HD screen, live classes, and adjustable resistance. Perfect for home fitness enthusiasts.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 120,
+    "category": "Fitness Equipment"
+  },
+  {
+    "name": "Asus ZenWiFi AX6600",
+    "description": "A tri-band mesh WiFi system with fast speeds, robust coverage, and advanced parental controls. Ideal for large homes and smart devices.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 250,
+    "category": "Networking"
+  },
+  {
+    "name": "ViewSonic XG2431",
+    "description": "A 24-inch Full HD gaming monitor with a 240Hz refresh rate, 1ms response time, and Adaptive Sync technology. Perfect for esports and competitive gaming.",
+    "price": 329,
+    "discount": 40,
+    "quantity": 220,
+    "category": "Gaming Monitor"
+  },
+  {
+    "name": "KitchenAid Artisan Stand Mixer",
+    "description": "A 5-quart stand mixer with 10 speeds, a durable metal design, and multiple color options. A must-have for home bakers and cooks.",
+    "price": 449,
+    "discount": 70,
+    "quantity": 300,
+    "category": "Kitchen Appliances"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "The iPhone 15 Pro Max features a 6.7-inch Super Retina XDR display, A17 Bionic chip, advanced camera system, and a titanium body for unparalleled performance and durability.",
+    "price": 1399,
+    "discount": 100,
+    "quantity": 500,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Dell XPS 17 (2024)",
+    "description": "A premium laptop with a 17-inch 4K display, Intel Core i9 processor, NVIDIA RTX 4060 GPU, and ultra-thin bezels. Ideal for professionals and creatives.",
+    "price": 2999,
+    "discount": 300,
+    "quantity": 250,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony Alpha 7 IV",
+    "description": "A full-frame mirrorless camera with 33MP resolution, 4K video recording, and advanced autofocus. Perfect for professional photographers and videographers.",
+    "price": 2699,
+    "discount": 150,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "description": "A premium smartwatch with a rotating bezel, AMOLED display, advanced health tracking, and up to 40 hours of battery life.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Wearables"
+  },
+  {
+    "name": "Corsair K100 RGB Mechanical Keyboard",
+    "description": "A high-performance mechanical gaming keyboard with per-key RGB lighting, customizable macros, and ultra-responsive switches.",
+    "price": 229,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Accessories"
+  },
+  {
+    "name": "LG C3 OLED TV",
+    "description": "A 65-inch 4K OLED TV with perfect black levels, Dolby Vision, and NVIDIA G-Sync support for immersive gaming and cinematic experiences.",
+    "price": 2499,
+    "discount": 200,
+    "quantity": 180,
+    "category": "TV"
+  },
+  {
+    "name": "Seagate FireCuda 530 4TB SSD",
+    "description": "A high-speed PCIe Gen4 NVMe SSD with up to 7,300MB/s read speeds, ideal for gamers, content creators, and professionals.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 350,
+    "category": "Storage"
+  },
+  {
+    "name": "Breville Barista Pro Espresso Machine",
+    "description": "A semi-automatic espresso machine with integrated grinder, precise temperature control, and customizable settings for the perfect coffee.",
+    "price": 899,
+    "discount": 100,
+    "quantity": 200,
+    "category": "Kitchen Appliances"
+  },
+  {
+    "name": "Roku Streaming Stick 4K",
+    "description": "A compact streaming device with 4K HDR support, Dolby Vision, and access to all your favorite streaming platforms.",
+    "price": 49,
+    "discount": 10,
+    "quantity": 800,
+    "category": "Streaming Devices"
+  },
+  {
+    "name": "Peloton Bike+",
+    "description": "An advanced stationary bike with a rotating HD touchscreen, live classes, and integrated resistance adjustment. Ideal for home fitness.",
+    "price": 2495,
+    "discount": 300,
+    "quantity": 120,
+    "category": "Fitness Equipment"
+  },
+  {
+    "name": "Google Nest Learning Thermostat",
+    "description": "A smart thermostat with energy-saving features, remote control via the app, and compatibility with smart home systems.",
+    "price": 249,
+    "discount": 30,
+    "quantity": 500,
+    "category": "Smart Home"
+  },
+  {
+    "name": "DJI Mavic 3 Pro Drone",
+    "description": "A professional-grade drone with a 4/3 CMOS Hasselblad camera, 46-minute flight time, and obstacle sensing in all directions.",
+    "price": 2199,
+    "discount": 200,
+    "quantity": 100,
+    "category": "Drones"
+  },
+  {
+    "name": "Herman Miller Aeron Chair",
+    "description": "An ergonomic office chair with breathable mesh, adjustable lumbar support, and iconic design. Perfect for long work sessions.",
+    "price": 1595,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Furniture"
+  },
+  {
+    "name": "AMD Ryzen 9 7950X Processor",
+    "description": "A 16-core, 32-thread processor with a base clock of 4.5GHz and boost up to 5.7GHz. Built for gaming and intensive workloads.",
+    "price": 699,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Components"
+  },
+  {
+    "name": "Apple AirPods Max",
+    "description": "Over-ear headphones with active noise cancellation, spatial audio, and premium sound quality. Designed for audiophiles.",
+    "price": 549,
+    "discount": 70,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Wacom Cintiq Pro 16",
+    "description": "A professional pen display with 4K resolution, vibrant colors, and responsive stylus. Perfect for digital artists and designers.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Creative Tools"
+  },
+  {
+    "name": "Fitbit Charge 6",
+    "description": "A fitness tracker with heart rate monitoring, sleep tracking, GPS, and long battery life. Perfect for everyday fitness tracking.",
+    "price": 179,
+    "discount": 20,
+    "quantity": 600,
+    "category": "Health & Wellness"
+  },
+  {
+    "name": "HyperX Cloud II Wireless Headset",
+    "description": "A wireless gaming headset with virtual 7.1 surround sound, 30-hour battery life, and comfortable ear cups for extended play.",
+    "price": 159,
+    "discount": 20,
+    "quantity": 450,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Nespresso VertuoPlus Coffee Maker",
+    "description": "A sleek coffee maker with Centrifusion technology, one-touch brewing, and a wide variety of coffee and espresso options.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Kitchen Appliances"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "An advanced wireless mouse with ultra-fast scrolling, ergonomic design, and customizable buttons. Ideal for productivity.",
+    "price": 129,
+    "discount": 15,
+    "quantity": 500,
+    "category": "Accessories"
+  },
+  {
+    "name": "Bose SoundLink Flex",
+    "description": "A portable Bluetooth speaker with deep bass, clear sound, and rugged waterproof design. Perfect for outdoor adventures and travel.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Alienware m15 R6",
+    "description": "A 15.6-inch gaming laptop with a 360Hz display, Intel Core i7 processor, and NVIDIA RTX 3070 graphics. Built for high-performance gaming.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Nintendo Switch OLED Model",
+    "description": "A handheld hybrid gaming console with a 7-inch OLED display, enhanced audio, and 64GB of internal storage. Perfect for gaming at home or on the go.",
+    "price": 349,
+    "discount": 40,
+    "quantity": 350,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "description": "A flagship smartphone with a 6.7-inch OLED display, Google Tensor G3 processor, and advanced AI camera features for stunning photos.",
+    "price": 999,
+    "discount": 100,
+    "quantity": 500,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "description": "A 49-inch ultrawide curved gaming monitor with QLED, 240Hz refresh rate, and 5120x1440 resolution. Ideal for immersive gaming and multitasking.",
+    "price": 1799,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Gaming Monitor"
+  },
+  {
+    "name": "Oculus Quest 3",
+    "description": "A standalone VR headset with immersive 3D audio, a high-res display, and access to a wide range of VR content. Perfect for gaming and fitness.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 400,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "Razer Kraken V3 Pro",
+    "description": "A gaming headset with haptic feedback, THX Spatial Audio, and a comfortable design for long gaming sessions.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 350,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Fitbit Versa 4",
+    "description": "A fitness smartwatch with built-in GPS, heart rate tracking, sleep monitoring, and long battery life. Perfect for active lifestyles.",
+    "price": 229,
+    "discount": 20,
+    "quantity": 500,
+    "category": "Health & Wellness"
+  },
+  {
+    "name": "LG UltraGear 27GN950-B",
+    "description": "A 27-inch 4K gaming monitor with Nano IPS display, 144Hz refresh rate, and G-Sync support. Designed for competitive gamers.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 200,
+    "category": "Gaming Monitor"
+  },
+  {
+    "name": "MacBook Air M2",
+    "description": "A lightweight laptop with Apple's M2 chip, a 13.6-inch Retina display, and all-day battery life. Ideal for productivity and entertainment.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds II",
+    "description": "True wireless earbuds with active noise cancellation, a comfortable fit, and superior sound quality for music and calls.",
+    "price": 299,
+    "discount": 40,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Anker PowerPort Atom PD 2",
+    "description": "A compact USB-C charger with 60W power delivery and fast charging capabilities for smartphones, laptops, and more.",
+    "price": 39,
+    "discount": 5,
+    "quantity": 800,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "description": "Noise-cancelling headphones with industry-leading sound quality, up to 30 hours of battery life, and hands-free calling.",
+    "price": 348,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Sony PlayStation 5 Digital Edition",
+    "description": "A next-gen gaming console with lightning-fast load times, immersive graphics, and access to a wide range of exclusive games.",
+    "price": 499,
+    "discount": 100,
+    "quantity": 350,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Elgato Stream Deck MK.2",
+    "description": "A customizable control panel with 15 programmable buttons, perfect for streamers and content creators to manage live broadcasts.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 250,
+    "category": "Streaming Equipment"
+  },
+  {
+    "name": "Apple Mac Mini M2",
+    "description": "A compact desktop computer with Apple's M2 chip, fast performance, and seamless integration with the macOS ecosystem.",
+    "price": 699,
+    "discount": 100,
+    "quantity": 300,
+    "category": "Desktop Computer"
+  },
+  {
+    "name": "GoPro HERO11 Black",
+    "description": "A rugged action camera with 5.3K video recording, HyperSmooth stabilization, and waterproofing for capturing adventures in extreme conditions.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Camera"
+  },
+  {
+    "name": "Razer DeathAdder V2 Pro",
+    "description": "A wireless gaming mouse with a high-precision sensor, ergonomic design, and customizable RGB lighting. Designed for competitive gaming.",
+    "price": 129,
+    "discount": 20,
+    "quantity": 350,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 5",
+    "description": "A foldable smartphone with a 6.7-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 chipset, and a stylish compact design.",
+    "price": 999,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Smartphone"
+  },
+  {
+    "name": "JBL Flip 6 Bluetooth Speaker",
+    "description": "A portable Bluetooth speaker with powerful bass, 12 hours of playback, and waterproof design, perfect for outdoor use.",
+    "price": 129,
+    "discount": 20,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Sony A7C Mirrorless Camera",
+    "description": "A compact full-frame mirrorless camera with 24.2MP resolution, 4K video recording, and advanced autofocus for both photos and videos.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Bose Noise Cancelling Headphones 700",
+    "description": "Over-ear headphones with 11 levels of noise cancellation, superior sound quality, and an elegant design for both work and leisure.",
+    "price": 379,
+    "discount": 50,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "description": "A sleek 13.5-inch laptop with Intel Core i7, 16GB RAM, and a PixelSense touchscreen. Designed for professionals who need both power and portability.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Beats Fit Pro",
+    "description": "True wireless earbuds with secure-fit wing tips, active noise cancellation, and spatial audio for an immersive listening experience.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "description": "An 11-inch tablet with a Snapdragon 8 Gen 1 processor, 12GB RAM, and a stunning AMOLED display. Perfect for productivity and entertainment.",
+    "price": 1149,
+    "discount": 150,
+    "quantity": 200,
+    "category": "Tablet"
+  },
+  {
+    "name": "Fujifilm X-T4 Mirrorless Camera",
+    "description": "A powerful mirrorless camera with a 26.1MP sensor, 4K video recording, and in-body image stabilization. Ideal for both professionals and enthusiasts.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon Gen 10",
+    "description": "A business laptop with Intel Core i7, 16GB RAM, and a 14-inch 4K display. Built for professionals seeking performance and portability.",
+    "price": 1999,
+    "discount": 300,
+    "quantity": 250,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sennheiser Momentum 4 Wireless",
+    "description": "Over-ear headphones with active noise cancellation, premium sound quality, and up to 60 hours of battery life.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Apple MacBook Pro 14-inch M2",
+    "description": "A high-performance laptop with Apple's M2 chip, 14-inch Liquid Retina XDR display, and all-day battery life. Ideal for creators and professionals.",
+    "price": 1999,
+    "discount": 250,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Razer Blade 15 Advanced",
+    "description": "A high-performance gaming laptop with a 15.6-inch 4K OLED display, Intel Core i9, and NVIDIA RTX 3080 GPU.",
+    "price": 2599,
+    "discount": 300,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Jabra Elite 85t",
+    "description": "True wireless earbuds with advanced noise cancellation, 6-microphone call technology, and custom sound for a premium listening experience.",
+    "price": 229,
+    "discount": 40,
+    "quantity": 350,
+    "category": "Audio"
+  },
+  {
+    "name": "Sonos Arc Soundbar",
+    "description": "A premium Dolby Atmos soundbar with 11 high-performance drivers for a cinematic audio experience. Perfect for home theaters.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 220,
+    "category": "Home Audio"
+  },
+  {
+    "name": "Bose Sport Open Earbuds",
+    "description": "Open-ear wireless earbuds designed for active individuals, featuring a secure fit, high-quality sound, and sweat and weather resistance.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Sony Xperia 1 IV",
+    "description": "A flagship smartphone with a 6.5-inch 4K OLED display, Snapdragon 8 Gen 1, and advanced camera features designed for photography enthusiasts.",
+    "price": 1299,
+    "discount": 150,
+    "quantity": 300,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "description": "A lightweight wireless gaming mouse with HERO sensor, ultra-low latency, and a customizable design for professional gamers.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 500,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "description": "A rugged smartwatch with a titanium case, GPS, dual-frequency GPS for precision, and up to 36 hours of battery life. Ideal for athletes and adventurers.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 200,
+    "category": "Wearables"
+  },
+  {
+    "name": "ASUS ROG Strix G15",
+    "description": "A 15.6-inch gaming laptop with a 144Hz refresh rate, Ryzen 9 5900HX processor, and NVIDIA RTX 3070 GPU. Built for immersive gaming.",
+    "price": 1799,
+    "discount": 250,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "DJI Air 2S Drone",
+    "description": "A compact drone with a 1-inch sensor, 5.4K video recording, and up to 31 minutes of flight time. Perfect for both enthusiasts and professionals.",
+    "price": 999,
+    "discount": 150,
+    "quantity": 300,
+    "category": "Drone"
+  },
+  {
+    "name": "Ecovacs Deebot T10+ Robot Vacuum",
+    "description": "A smart robot vacuum with advanced mapping, strong suction, and auto-empty dustbin. Perfect for a hassle-free cleaning experience.",
+    "price": 599,
+    "discount": 80,
+    "quantity": 500,
+    "category": "Smart Home"
+  },
+  {
+    "name": "GoPro HERO10 Black",
+    "description": "A versatile action camera with 5.3K resolution, HyperSmooth 4.0 stabilization, and waterproofing up to 33 feet. Ideal for action-packed adventures.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 250,
+    "category": "Camera"
+  },
+  {
+    "name": "Bose Frames Tempo",
+    "description": "Smart sunglasses with built-in speakers, providing high-quality sound and hands-free calls, perfect for outdoor activities and sports.",
+    "price": 249,
+    "discount": 30,
+    "quantity": 350,
+    "category": "Wearables"
+  },
+  {
+    "name": "Canon EOS R6 Mirrorless Camera",
+    "description": "A full-frame mirrorless camera with 20 frames per second shooting, 4K video, and a 20.1MP sensor. Perfect for high-speed photography.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "description": "Wireless earbuds with active noise cancellation, high-quality sound, and a comfortable fit. Perfect for music lovers and professionals.",
+    "price": 229,
+    "discount": 40,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "The latest iPhone with a 6.7-inch OLED display, A17 Bionic chip, and advanced camera system for professional-grade photography.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 400,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "A flagship smartphone featuring a 6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2, and a 200MP primary camera for stunning photos.",
+    "price": 1399,
+    "discount": 150,
+    "quantity": 350,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Alienware Aurora R15",
+    "description": "A powerful gaming desktop with Intel Core i9, NVIDIA GeForce RTX 4090, and support for up to 128GB RAM. Built for serious gamers.",
+    "price": 3599,
+    "discount": 400,
+    "quantity": 180,
+    "category": "Gaming PC"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Premium noise-canceling headphones with up to 30 hours of battery life, crystal-clear sound, and adaptive sound control for immersive listening.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Bose Soundbar 900",
+    "description": "A premium soundbar with Dolby Atmos support, immersive sound quality, and built-in voice control for an enhanced home theater experience.",
+    "price": 899,
+    "discount": 100,
+    "quantity": 250,
+    "category": "Home Audio"
+  },
+  {
+    "name": "DJI Mavic 3 Classic",
+    "description": "A professional-grade drone with a 4/3 CMOS camera, 5.1K video recording, and up to 46 minutes of flight time for stunning aerial shots.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 220,
+    "category": "Drone"
+  },
+  {
+    "name": "Apple MacBook Pro 16-inch M2",
+    "description": "A powerful laptop with Apple's M2 Pro chip, a 16-inch Retina display, and up to 64GB RAM, perfect for demanding professional work.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "Samsung QLED 4K TV 65-inch",
+    "description": "A 65-inch QLED 4K TV with Quantum Dot technology, delivering vivid colors and deep contrasts. Smart TV features with access to streaming services.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 180,
+    "category": "Television"
+  },
+  {
+    "name": "Sony PlayStation VR2",
+    "description": "Next-gen virtual reality headset with immersive 4K HDR, 3D audio, and a wide range of compatible games for an unparalleled VR experience.",
+    "price": 549,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "Oculus Quest Pro",
+    "description": "An advanced standalone VR headset with ultra-high resolution, immersive 3D audio, and hand-tracking for a more interactive experience.",
+    "price": 1099,
+    "discount": 150,
+    "quantity": 350,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "Razer Kraken V3 HyperSense",
+    "description": "A wireless gaming headset with haptic feedback, THX spatial audio, and Razer HyperSense for an immersive sound experience.",
+    "price": 229,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "LG OLED55C2 55-inch",
+    "description": "55-inch OLED TV with 4K resolution, OLED technology for infinite contrast, and Dolby Vision for enhanced picture quality.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Television"
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "description": "A versatile 2-in-1 device with a 13-inch PixelSense touchscreen, Intel Core i7, and up to 32GB RAM, offering both tablet and laptop functionality.",
+    "price": 1599,
+    "discount": 250,
+    "quantity": 250,
+    "category": "Tablet"
+  },
+  {
+    "name": "Razer Blade 17",
+    "description": "A high-performance 17.3-inch gaming laptop with Intel Core i9, NVIDIA RTX 3080 Ti, and a 360Hz display for fluid gaming visuals.",
+    "price": 2999,
+    "discount": 350,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Apple AirPods Pro 2nd Gen",
+    "description": "True wireless earbuds with active noise cancellation, spatial audio, and a comfortable design for an immersive listening experience.",
+    "price": 249,
+    "discount": 30,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "description": "A stylish smartwatch with advanced fitness tracking, ECG, blood pressure monitoring, and a bright AMOLED display for a health-conscious lifestyle.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Wearables"
+  },
+  {
+    "name": "Lenovo Legion 5 Pro",
+    "description": "A 16-inch gaming laptop with a 165Hz QHD display, AMD Ryzen 7 5800H, and NVIDIA GeForce RTX 3070 GPU for exceptional gaming performance.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Fujifilm X-T5 Mirrorless Camera",
+    "description": "A mirrorless camera with a 40MP X-Trans CMOS 5 sensor, 6.2K video recording, and in-body image stabilization for stunning photos and videos.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Google Pixel 8",
+    "description": "A flagship smartphone with Google Tensor G3 chip, a 50MP primary camera, and a 6.2-inch OLED display for a seamless user experience.",
+    "price": 699,
+    "discount": 100,
+    "quantity": 500,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Harman Kardon Citation 500",
+    "description": "Premium wireless smart speaker with 360-degree sound, Google Assistant integration, and high-quality audio for home entertainment.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 300,
+    "category": "Audio"
+  },
+  {
+    "name": "Apple HomePod Mini",
+    "description": "A compact smart speaker with Siri integration, rich sound, and smart home control capabilities for a seamless home experience.",
+    "price": 99,
+    "discount": 10,
+    "quantity": 800,
+    "category": "Smart Home"
+  },
+  {
+    "name": "Seagate Expansion 4TB",
+    "description": "A 4TB external hard drive with USB 3.0 connectivity for fast data transfer, ideal for storing large files and backups.",
+    "price": 99,
+    "discount": 15,
+    "quantity": 600,
+    "category": "Storage"
+  },
+  {
+    "name": "Nvidia RTX 4080 Founders Edition",
+    "description": "A high-performance graphics card with 16GB of GDDR6X memory and DLSS 3 for incredible gaming performance and stunning visuals.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 250,
+    "category": "PC Components"
+  },
+  {
+    "name": "Apple iPhone 15 Ultra",
+    "description": "A revolutionary smartphone with a 6.9-inch OLED display, A17 Ultra chip, and 48MP triple camera system with LiDAR. Perfect for professionals who demand the best.",
+    "price": 1799,
+    "discount": 250,
+    "quantity": 550,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 5",
+    "description": "A cutting-edge foldable smartphone with a 7.6-inch Dynamic AMOLED display, Snapdragon 8 Gen 3, and up to 1TB storage, redefining mobile multitasking.",
+    "price": 1899,
+    "discount": 300,
+    "quantity": 300,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Alienware X17 R2",
+    "description": "A 17.3-inch gaming laptop featuring Intel Core i9, NVIDIA RTX 4080, and a 360Hz display, offering ultimate performance for competitive gamers.",
+    "price": 3299,
+    "discount": 400,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony WH-1000XM6",
+    "description": "The newest iteration of Sony's noise-canceling headphones with improved sound quality, longer battery life, and enhanced comfort for all-day wear.",
+    "price": 429,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "description": "Industry-leading noise-canceling over-ear headphones with 24-hour battery life, rich sound, and ultra-soft ear cushions for an immersive listening experience.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Audio"
+  },
+  {
+    "name": "DJI Air 2S Fly More Combo",
+    "description": "A powerful drone with a 1-inch sensor, 5.4K video recording, and 31-minute flight time. Perfect for both aerial photography and casual flights.",
+    "price": 1299,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Drone"
+  },
+  {
+    "name": "Apple MacBook Pro 14-inch M3",
+    "description": "A compact yet powerful laptop with Apple's M3 chip, 14-inch Liquid Retina display, and up to 64GB RAM. Ideal for creative professionals.",
+    "price": 2199,
+    "discount": 250,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Samsung Odyssey Neo G9 49-inch",
+    "description": "A massive 49-inch curved ultra-wide monitor with 5120x1440 resolution and a 240Hz refresh rate, designed for immersive gaming and productivity.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 220,
+    "category": "Monitors"
+  },
+  {
+    "name": "Sony A7R V Mirrorless Camera",
+    "description": "A high-resolution 61MP full-frame mirrorless camera with advanced autofocus, 8K video recording, and exceptional dynamic range for professional photographers.",
+    "price": 3999,
+    "discount": 400,
+    "quantity": 180,
+    "category": "Camera"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "description": "A sleek 13.5-inch laptop with Intel Core i7, 16GB RAM, and a PixelSense touchscreen, offering powerful performance and a premium design.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "Nvidia RTX 4090 Founders Edition",
+    "description": "The ultimate graphics card with 24GB of GDDR6X memory, real-time ray tracing, and support for DLSS 3. Perfect for high-end gaming and AI applications.",
+    "price": 1599,
+    "discount": 250,
+    "quantity": 200,
+    "category": "PC Components"
+  },
+  {
+    "name": "Oculus Quest 3",
+    "description": "The next-gen standalone VR headset with improved resolution, hand tracking, and a library of immersive VR games and experiences.",
+    "price": 699,
+    "discount": 100,
+    "quantity": 400,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "description": "A smartwatch with an always-on Retina display, advanced health monitoring, and the new S9 chip for faster performance and better battery life.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Wearables"
+  },
+  {
+    "name": "Razer Blade Stealth 13",
+    "description": "A compact 13-inch ultrabook with Intel Core i7, NVIDIA GTX 1650, and a high-refresh-rate display. Ideal for portable gaming and productivity.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 180,
+    "category": "Laptop"
+  },
+  {
+    "name": "LG OLED C3 55-inch",
+    "description": "55-inch 4K OLED TV with self-lighting OLED technology, perfect for deep blacks, bright colors, and a cinematic viewing experience.",
+    "price": 1799,
+    "discount": 200,
+    "quantity": 250,
+    "category": "Television"
+  },
+  {
+    "name": "Sonos Arc",
+    "description": "A premium soundbar with Dolby Atmos support, rich sound, and built-in Alexa and Google Assistant for hands-free control.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 350,
+    "category": "Home Audio"
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "description": "An ultra-lightweight gaming mouse with HERO sensor technology, designed for esports athletes who demand precision and speed.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 500,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "GoPro Hero 11 Black",
+    "description": "A rugged action camera with 5.3K video recording, HyperSmooth 5.0 stabilization, and improved low-light performance for every adventure.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Camera"
+  },
+  {
+    "name": "Epson EcoTank ET-8550",
+    "description": "A wide-format printer with refillable ink tanks, perfect for printing high-quality photos and documents at a low cost per page.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 300,
+    "category": "Office Equipment"
+  },
+  {
+    "name": "Apple Mac Mini M2 Pro",
+    "description": "A compact desktop with the powerful M2 Pro chip, offering blazing-fast performance for creative and professional applications.",
+    "price": 1299,
+    "discount": 150,
+    "quantity": 350,
+    "category": "Desktop"
+  },
+  {
+    "name": "Bose SoundLink Flex",
+    "description": "A portable Bluetooth speaker with deep bass, IP67 waterproofing, and up to 12 hours of playtime for on-the-go listening.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Sennheiser Momentum 4",
+    "description": "Over-ear wireless headphones with noise-canceling technology, 60-hour battery life, and Hi-Res Audio support for audiophiles.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 250,
+    "category": "Audio"
+  },
+  {
+    "name": "Philips Hue White & Color Ambiance Starter Kit",
+    "description": "A smart lighting kit with four bulbs and a bridge, offering a wide range of colors and remote control via the Philips Hue app or voice assistants.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Smart Home"
+  },
+  {
+    "name": "Asus ROG Swift PG32UQX",
+    "description": "A 32-inch 4K gaming monitor with Quantum Dot technology, a 144Hz refresh rate, and NVIDIA G-SYNC Ultimate for smooth gaming visuals.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 150,
+    "category": "Monitors"
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "The most advanced iPhone ever with A17 Pro chip, 5G connectivity, and a stunning 48MP triple camera setup with advanced optical zoom and ProRAW support.",
+    "price": 1699,
+    "discount": 200,
+    "quantity": 600,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "description": "A flagship Android smartphone featuring Google's Tensor G3 chip, 120Hz LTPO OLED display, and a cutting-edge 50MP camera with enhanced night photography.",
+    "price": 999,
+    "discount": 150,
+    "quantity": 500,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Sony Xperia 1 V",
+    "description": "A powerful Android phone with a 4K OLED display, Snapdragon 8 Gen 3 chipset, and an industry-leading 48MP triple camera system for content creators.",
+    "price": 1299,
+    "discount": 200,
+    "quantity": 350,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Microsoft Surface Laptop Studio 2",
+    "description": "A versatile laptop with a 14.4-inch PixelSense Flow display, Intel Core i9, NVIDIA RTX 4070, and 32GB RAM, designed for artists, designers, and creators.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 150,
+    "category": "Laptop"
+  },
+  {
+    "name": "HP Spectre x360 14",
+    "description": "A premium 2-in-1 laptop with Intel Core i7, 16GB RAM, and a 3K OLED touch display, offering flexibility and performance for professionals.",
+    "price": 1599,
+    "discount": 250,
+    "quantity": 200,
+    "category": "Laptop"
+  },
+  {
+    "name": "Alienware Aurora R15",
+    "description": "A powerful gaming desktop with Intel Core i9-13900K, NVIDIA RTX 4090, and 64GB DDR5 RAM, delivering top-tier performance for AAA gaming titles.",
+    "price": 3999,
+    "discount": 500,
+    "quantity": 100,
+    "category": "Desktop"
+  },
+  {
+    "name": "Nvidia GeForce RTX 4080",
+    "description": "The next-gen GPU with 16GB GDDR6X memory, delivering unparalleled gaming performance and AI-driven advancements like DLSS 3.0.",
+    "price": 1299,
+    "discount": 150,
+    "quantity": 300,
+    "category": "PC Components"
+  },
+  {
+    "name": "Razer Blade 18",
+    "description": "A powerful 18-inch gaming laptop with Intel Core i9, NVIDIA RTX 4090, and a 240Hz display, offering unrivaled performance and immersive visuals.",
+    "price": 3499,
+    "discount": 400,
+    "quantity": 120,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony A1 Full-Frame Mirrorless Camera",
+    "description": "A professional-grade camera with a 50.1MP full-frame sensor, 8K video recording, and blazing-fast autofocus, designed for high-end photography and videography.",
+    "price": 6499,
+    "discount": 800,
+    "quantity": 80,
+    "category": "Camera"
+  },
+  {
+    "name": "Samsung Neo QLED 8K TV",
+    "description": "A 75-inch 8K TV with Quantum Matrix technology, offering stunning clarity, contrast, and color for a cinema-like viewing experience.",
+    "price": 7999,
+    "discount": 1000,
+    "quantity": 150,
+    "category": "Television"
+  },
+  {
+    "name": "Bose Noise Cancelling Headphones 700",
+    "description": "A high-end noise-canceling headphone with 11 levels of noise cancellation, clear voice pickup, and superior sound quality for a premium listening experience.",
+    "price": 379,
+    "discount": 50,
+    "quantity": 450,
+    "category": "Audio"
+  },
+  {
+    "name": "Oculus Quest 3 512GB",
+    "description": "The latest virtual reality headset with improved visuals, hand tracking, and up to 512GB storage for the most immersive VR experience.",
+    "price": 899,
+    "discount": 100,
+    "quantity": 300,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "MacBook Air M3",
+    "description": "The new MacBook Air with Apple's M3 chip, delivering exceptional power, energy efficiency, and a 13.6-inch Retina display in a sleek, portable design.",
+    "price": 1299,
+    "discount": 150,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "DJI Mavic 3 Pro Drone",
+    "description": "A professional-grade drone with a 4K camera, 46-minute flight time, and advanced obstacle avoidance, perfect for aerial photographers and videographers.",
+    "price": 2399,
+    "discount": 300,
+    "quantity": 200,
+    "category": "Drone"
+  },
+  {
+    "name": "Logitech G Pro X Wireless",
+    "description": "A wireless gaming headset with 50mm drivers, Blue VO!CE technology, and a lightweight design for comfortable, high-performance gaming sessions.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 500,
+    "category": "Gaming Accessories"
+  },
+  {
+    "name": "Philips Sonicare DiamondClean 9000",
+    "description": "A premium electric toothbrush with smart sensors, multiple cleaning modes, and superior plaque removal, designed for optimal oral health.",
+    "price": 249,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Personal Care"
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "description": "A rugged smartwatch designed for extreme sports, featuring a titanium case, GPS, and advanced health and fitness tracking features.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 350,
+    "category": "Wearables"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "description": "The latest PlayStation console with ultra-fast SSD, 4K HDR gaming, and exclusive titles like 'Spider-Man: Miles Morales' and 'Demon's Souls'.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "A flagship tablet with a 14.6-inch AMOLED display, Snapdragon 8 Gen 2, and 12GB RAM, perfect for creative professionals and multimedia consumption.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 250,
+    "category": "Tablet"
+  },
+  {
+    "name": "Dyson V15 Detect",
+    "description": "The most powerful cordless vacuum with laser illumination, a high torque cleaner head, and advanced filtration for deep cleaning.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 300,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "BenQ EX2710Q",
+    "description": "A 27-inch QHD gaming monitor with 165Hz refresh rate, 1ms response time, and HDR support for smooth and immersive gaming visuals.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 500,
+    "category": "Monitors"
+  },
+  {
+    "name": "Corsair Vengeance DDR5 64GB",
+    "description": "High-performance DDR5 RAM with speeds up to 5600MHz, perfect for gaming PCs and content creation workstations.",
+    "price": 299,
+    "discount": 50,
+    "quantity": 400,
+    "category": "PC Components"
+  },
+  {
+    "name": "Samsung Odyssey G8 32-inch",
+    "description": "A 32-inch curved QHD gaming monitor with a 240Hz refresh rate, Quantum Dot technology, and support for NVIDIA G-SYNC for smooth gaming experiences.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 220,
+    "category": "Monitors"
+  },
+  {
+    "name": "Asus TUF Gaming A15",
+    "description": "A powerful gaming laptop featuring an AMD Ryzen 9 processor, NVIDIA GeForce RTX 3070, and a 15.6-inch Full HD display for smooth gaming performance.",
+    "price": 1799,
+    "discount": 250,
+    "quantity": 400,
+    "category": "Laptop"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "description": "A premium smartwatch with a sleek design, AMOLED display, advanced health tracking features, and long battery life for fitness and productivity.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 550,
+    "category": "Wearables"
+  },
+  {
+    "name": "HP Spectre x360 14",
+    "description": "A 2-in-1 laptop with Intel Core i7, 16GB RAM, and a stunning 14-inch OLED touch display, offering both performance and versatility for creative work.",
+    "price": 1899,
+    "discount": 250,
+    "quantity": 300,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony PlayStation 5 Digital Edition",
+    "description": "A next-gen gaming console with a digital-only library, offering ultra-fast load times, 4K gaming, and immersive features for gamers.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 650,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "Apple iPad Pro 12.9-inch M2",
+    "description": "The most powerful iPad yet with Apple's M2 chip, a 12.9-inch Liquid Retina XDR display, and up to 1TB storage for content creation and productivity.",
+    "price": 1099,
+    "discount": 150,
+    "quantity": 450,
+    "category": "Tablet"
+  },
+  {
+    "name": "Nikon Z9 Mirrorless Camera",
+    "description": "A professional-grade mirrorless camera with a 45.7 MP sensor, 8K video recording, and advanced autofocus for photographers and videographers.",
+    "price": 5499,
+    "discount": 600,
+    "quantity": 100,
+    "category": "Camera"
+  },
+  {
+    "name": "Oculus Quest 3 VR Headset",
+    "description": "A standalone virtual reality headset with enhanced graphics, a wider field of view, and a comfortable design for immersive VR experiences.",
+    "price": 499,
+    "discount": 70,
+    "quantity": 350,
+    "category": "Virtual Reality"
+  },
+  {
+    "name": "JBL Quantum One Gaming Headset",
+    "description": "A high-end gaming headset with QuantumSPHERE 360 sound technology, noise-canceling microphone, and comfortable ear cups for extended play sessions.",
+    "price": 299,
+    "discount": 40,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Razer Kiyo Pro Streaming Webcam",
+    "description": "A professional-grade webcam with a 1080p HDR sensor, perfect for streaming with superior video quality and low-light performance.",
+    "price": 199,
+    "discount": 30,
+    "quantity": 400,
+    "category": "Camera"
+  },
+  {
+    "name": "Dell UltraSharp U4021QW 40-inch Monitor",
+    "description": "A 40-inch curved ultra-wide monitor with a 5K resolution, perfect for productivity, creative work, and immersive entertainment.",
+    "price": 1499,
+    "discount": 250,
+    "quantity": 200,
+    "category": "Monitor"
+  },
+  {
+    "name": "LG UltraGear 27GN950-B 4K Monitor",
+    "description": "A 27-inch 4K gaming monitor with a 144Hz refresh rate, NVIDIA G-Sync compatibility, and stunning visuals for the ultimate gaming experience.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 450,
+    "category": "Monitor"
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "description": "An ultra-lightweight wireless gaming mouse with HERO sensor technology, designed for competitive gaming with incredible precision.",
+    "price": 149,
+    "discount": 20,
+    "quantity": 500,
+    "category": "Computer Accessories"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds II",
+    "description": "True wireless noise-canceling earbuds with exceptional sound quality, comfortable fit, and up to 6 hours of battery life.",
+    "price": 299,
+    "discount": 40,
+    "quantity": 400,
+    "category": "Audio"
+  },
+  {
+    "name": "Anker PowerCore III Elite 25600mAh",
+    "description": "A high-capacity power bank with 60W USB-C charging, capable of charging laptops, smartphones, and other devices on the go.",
+    "price": 129,
+    "discount": 30,
+    "quantity": 600,
+    "category": "Accessories"
+  },
+  {
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "description": "A powerful cordless vacuum with laser illumination, advanced filtration, and multiple cleaning modes for deep cleaning all types of surfaces.",
+    "price": 749,
+    "discount": 100,
+    "quantity": 150,
+    "category": "Home Appliances"
+  },
+  {
+    "name": "Samsung 980 Pro 1TB NVMe SSD",
+    "description": "A high-performance SSD with read speeds up to 7000MB/s, ideal for gaming and heavy workloads that demand speed and reliability.",
+    "price": 149,
+    "discount": 30,
+    "quantity": 700,
+    "category": "PC Components"
+  },
+  {
+    "name": "Canon EOS R6 Mark II",
+    "description": "A high-performance full-frame mirrorless camera with 20fps continuous shooting, 4K video, and exceptional autofocus for professional photographers.",
+    "price": 2599,
+    "discount": 300,
+    "quantity": 200,
+    "category": "Camera"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "description": "A premium laptop with Intel Core i7, 16GB RAM, and a 13.5-inch PixelSense display, designed for professionals and students alike.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "Samsung Odyssey G9 49-inch Monitor",
+    "description": "A massive curved 49-inch monitor with a 240Hz refresh rate and a 5120x1440 resolution, ideal for gaming and multi-tasking productivity.",
+    "price": 1799,
+    "discount": 250,
+    "quantity": 100,
+    "category": "Monitor"
+  },
+  {
+    "name": "Huawei Mate 50 Pro",
+    "description": "A flagship smartphone with a 50MP Leica camera, a powerful Snapdragon 8 Gen 1 chip, and an elegant curved OLED display.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 350,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Bose Home Speaker 500",
+    "description": "A premium smart speaker with rich, room-filling sound, Alexa and Google Assistant compatibility, and built-in Wi-Fi for streaming music.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 250,
+    "category": "Audio"
+  },
+  {
+    "name": "Alienware X17 R2 Gaming Laptop",
+    "description": "An ultra-thin 17-inch gaming laptop with Intel Core i9 and NVIDIA GeForce RTX 3080 Ti for extreme gaming and multitasking performance.",
+    "price": 2299,
+    "discount": 400,
+    "quantity": 200,
+    "category": "Laptop"
+  },
+  {
+    "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+    "description": "Industry-leading noise cancellation, exceptional sound quality, and long-lasting comfort in these over-ear headphones for music lovers.",
+    "price": 349,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "description": "A powerful, thin, and lightweight laptop featuring Apple's M2 chip, with exceptional battery life and a stunning Retina display.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 450,
+    "category": "Laptop"
+  },
+  {
+    "name": "Google Pixel 7 Pro",
+    "description": "A flagship smartphone with Google's custom Tensor chip, 5G support, and a stunning 50MP triple camera setup for top-tier photography.",
+    "price": 899,
+    "discount": 100,
+    "quantity": 500,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Corsair Vengeance DDR5 64GB RAM",
+    "description": "High-performance DDR5 memory kit with 64GB capacity and speeds of up to 5200MHz, perfect for gaming, content creation, and heavy multitasking.",
+    "price": 299,
+    "discount": 40,
+    "quantity": 600,
+    "category": "PC Components"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 4",
+    "description": "A foldable smartphone with a 6.7-inch AMOLED display, Snapdragon 8+ Gen 1, and advanced folding mechanics for a modern mobile experience.",
+    "price": 999,
+    "discount": 150,
+    "quantity": 400,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Microsoft Xbox Series X",
+    "description": "The most powerful next-gen console, featuring 4K gaming, ray tracing, and an expansive library of games for immersive experiences.",
+    "price": 499,
+    "discount": 50,
+    "quantity": 650,
+    "category": "Gaming Console"
+  },
+  {
+    "name": "BenQ ZOWIE XL2546K 24.5-inch Gaming Monitor",
+    "description": "A 240Hz monitor with DyAc+ technology designed for esports, delivering a fast and fluid gaming experience for competitive players.",
+    "price": 399,
+    "discount": 60,
+    "quantity": 500,
+    "category": "Monitor"
+  },
+  {
+    "name": "Bose Soundbar 700 with Bass Module 700",
+    "description": "A premium soundbar system with immersive sound quality, built-in voice assistants, and the ability to enhance your home theater setup.",
+    "price": 1199,
+    "discount": 150,
+    "quantity": 200,
+    "category": "Audio"
+  },
+  {
+    "name": "GoPro HERO11 Black",
+    "description": "The ultimate action camera with 5.3K video recording, HyperSmooth stabilization, and rugged design for capturing all your adventures.",
+    "price": 399,
+    "discount": 50,
+    "quantity": 600,
+    "category": "Camera"
+  },
+  {
+    "name": "Acer Predator Helios 300",
+    "description": "A high-performance gaming laptop with Intel Core i7, NVIDIA RTX 3060, and a 15.6-inch Full HD display, delivering smooth gameplay.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 350,
+    "category": "Laptop"
+  },
+  {
+    "name": "LG OLED48C1PUB 48-inch OLED TV",
+    "description": "A stunning 48-inch OLED TV with 4K resolution, perfect blacks, and a 120Hz refresh rate for an immersive entertainment experience.",
+    "price": 1599,
+    "discount": 200,
+    "quantity": 150,
+    "category": "TV"
+  },
+  {
+    "name": "Razer Blade 15 Advanced",
+    "description": "A 15.6-inch gaming laptop with Intel Core i9, NVIDIA GeForce RTX 3070, and a fast 360Hz display, engineered for elite gamers.",
+    "price": 2299,
+    "discount": 350,
+    "quantity": 250,
+    "category": "Laptop"
+  },
+  {
+    "name": "Xiaomi 12 Pro",
+    "description": "A flagship smartphone with a 50MP triple camera setup, Snapdragon 8 Gen 1, and a 6.73-inch AMOLED display for an all-around exceptional experience.",
+    "price": 999,
+    "discount": 120,
+    "quantity": 400,
+    "category": "Smartphone"
+  },
+  {
+    "name": "Canon EOS 5D Mark IV",
+    "description": "A professional DSLR with 30.4 MP resolution, 4K video recording, and advanced autofocus for high-quality photography and videography.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 200,
+    "category": "Camera"
+  },
+  {
+    "name": "Fitbit Charge 5 Fitness Tracker",
+    "description": "A sleek fitness tracker with built-in GPS, heart rate monitoring, and stress management features for tracking health and wellness.",
+    "price": 179,
+    "discount": 30,
+    "quantity": 700,
+    "category": "Wearables"
+  },
+  {
+    "name": "Philips Sonicare DiamondClean 9000",
+    "description": "A premium electric toothbrush with advanced sonic technology, multiple cleaning modes, and a smart sensor for optimal oral health care.",
+    "price": 239,
+    "discount": 40,
+    "quantity": 450,
+    "category": "Health"
+  },
+  {
+    "name": "Bose Noise Cancelling Headphones 700",
+    "description": "Exceptional noise cancellation and premium sound quality with up to 20 hours of wireless playtime for ultimate audio experience.",
+    "price": 379,
+    "discount": 60,
+    "quantity": 500,
+    "category": "Audio"
+  },
+  {
+    "name": "Samsung The Frame 55-inch QLED TV",
+    "description": "A 55-inch QLED TV that doubles as a piece of art with customizable frames, offering 4K resolution and a stylish design for your home.",
+    "price": 1499,
+    "discount": 200,
+    "quantity": 250,
+    "category": "TV"
+  },
+  {
+    "name": "Apple AirPods Pro 2nd Gen",
+    "description": "The next generation of noise-canceling earbuds from Apple, with adaptive transparency and spatial audio for an immersive listening experience.",
+    "price": 249,
+    "discount": 40,
+    "quantity": 600,
+    "category": "Audio"
+  },
+  {
+    "name": "Sony A7 IV Full-Frame Camera",
+    "description": "A full-frame mirrorless camera with 33MP resolution, 4K video recording, and advanced autofocus for professional photographers and videographers.",
+    "price": 2499,
+    "discount": 300,
+    "quantity": 150,
+    "category": "Camera"
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "description": "A rugged smartwatch built for extreme sports and outdoor adventures, featuring GPS, blood oxygen monitoring, and a 49mm titanium case.",
+    "price": 799,
+    "discount": 100,
+    "quantity": 300,
+    "category": "Wearables"
+  },
+  {
+    "name": "OnePlus 10 Pro 5G",
+    "description": "A flagship smartphone with 120Hz AMOLED display, Snapdragon 8 Gen 1, and 5G capabilities, designed for smooth performance and stunning visuals.",
+    "price": 899,
+    "discount": 100,
+    "quantity": 350,
+    "category": "Smartphone"
+  }
+]
